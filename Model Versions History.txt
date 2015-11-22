@@ -1,0 +1,15 @@
+---- MODEL VERSIONS HISTORY -----
+
+== LioAnyShoulder_Model-v0.1 == 
+* Initial version, as submitted for code Review to AnyBody.
+* Prosthetic components included: *.stl files obtained by retro-engineering, i.e. scan of an existing component and reconstruction of points cloud to create vertices, faces and normals.
+ 
+== LioAnyShoulder_Model-v0.2 ==
+* Modifications after first Søren Thøholm’s code review
+* Fixed bugs related to output data file
+* Removed unnecessary folders and files (bones STL models, implant STL models, Source/Custom file for scaling based on external model, etc.)
+* Added the Folder « LicenseTerms » with AnyBody Technology licences terms.
+
+== LioAnyShoulder_Model-v1.0 ==
+* Official version, available for download on http://forge.anyscript.org/gf/project/lioanyshoulder/
+* Prosthetic components included: CAO custom made; not based on any commercial components.
